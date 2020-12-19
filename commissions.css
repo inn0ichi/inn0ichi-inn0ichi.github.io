@@ -1,0 +1,18 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+.card-img {
+    width: 650px;
+}
+
+.cardtext {
+    text-align: center;
+}
+
+.row {
+    padding-right: 90px;
+    padding-left: 52px;
+}

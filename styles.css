@@ -2,6 +2,7 @@ html {
     font-family: 'Raleway', sans-serif;
     padding: 0;
     margin: 0;
+    height: 100%;
 }
 
 body {
@@ -31,6 +32,7 @@ body {
     border-width: 1.2px;
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     height: 100%;
+    width: 330.375px;
 }
 
 .logo {
@@ -54,8 +56,14 @@ body {
     text-decoration: none!important;
 }
 
-.menu h3 {
+.menu h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: #292929;
+    margin-bottom: 15px
 }
 
 .logo-img {
