@@ -16,3 +16,28 @@
     padding-right: 90px;
     padding-left: 52px;
 }
+
+@media only screen and (max-width: 425px) {
+    .container {
+        width: 425px;
+    }
+    .main {
+        display: flex;
+        flex-direction: column;
+        margin-top: 25px;
+        width: 425px;
+    }
+    .cards {
+        width: 425px;
+        height: 350px;
+        margin-top: 25px;
+    }
+    .card-img {
+        width: 425px;
+    }
+    .row {
+        padding: 0;
+        margin: 0;
+        margin-top: 50px;
+    }
+}

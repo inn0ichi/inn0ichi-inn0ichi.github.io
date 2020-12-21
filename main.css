@@ -33,3 +33,14 @@
     float: right;
     font-size: x-large;
 }
+
+@media only screen and (max-width: 425px) {
+    .abouttext {
+        width: 425px;
+        margin: 0;
+    }
+    .main h2 {
+        margin-top: 25px;
+        width: 425px;
+    }
+}
