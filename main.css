@@ -1,0 +1,34 @@
+.main {
+    display: block;
+    width: 1500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 75px;
+    align-items: center;
+    margin: auto;
+}
+
+.main h2 {
+    width: 1500px;
+}
+
+.main p {
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: large;
+}
+
+.aboutme {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.abouttext {
+    margin: auto;
+    width: 930px;
+}
+
+.abouttext em {
+    float: right;
+}

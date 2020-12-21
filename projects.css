@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+.card-img {
+    width: 650px;
+}
+
+.cardtext {
+    text-align: center;
+}
+
+.row {
+    padding-right: 90px;
+    padding-left: 52px;
+}
+
+.cards {
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 450px;
+}
